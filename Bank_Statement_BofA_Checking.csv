@@ -1,0 +1,217 @@
+post_date,description,amount,running_balance,cleared
+01/02/2025,Sandra Adams - Contractor payment,-14896.0,46104.0,Y
+01/08/2025,Linda Jones - Contractor payment,-16677.0,29427.0,Y
+01/09/2026,Greenfield Machine Works - Client payment received,9282.0,38709.0,Y
+01/10/2026,Greenfield Machine Works - Client payment received,14655.0,53364.0,Y
+01/11/2025,Fatima Allen - Contractor payment,-10670.0,42694.0,Y
+01/13/2025,Sandra Baker - Contractor payment,-3708.0,38986.0,Y
+01/14/2026,Palmetto Industrial Group - Client payment received,11532.0,50518.0,Y
+01/18/2025,Patricia Young - Contractor payment,-12864.0,37654.0,Y
+01/19/2026,Amberlyn Packaging Systems - Client payment received,5256.0,42910.0,Y
+01/19/2026,Corsair Tooling Co - Client payment received,30816.0,73726.0,Y
+01/20/2025,Linda Flores - Contractor payment,-11280.0,62446.0,Y
+01/23/2026,Keystone Fabrication - Client payment received,19096.0,81542.0,Y
+01/26/2025,Bellwright Manufacturing - Client payment received,22500.0,104042.0,Y
+01/27/2025,Truline Automotive Parts - Client payment received,31050.0,135092.0,Y
+02/01/2025,Patricia Young - Contractor payment,-9804.0,125288.0,Y
+02/03/2025,Linda Flores - Contractor payment,-6528.0,118760.0,Y
+02/03/2025,Corsair Tooling Co - Client payment received,24955.0,143715.0,Y
+02/03/2025,Greenfield Machine Works - Client payment received,30078.0,173793.0,Y
+02/05/2025,James Taylor - Contractor payment,-14820.0,158973.0,Y
+02/07/2026,Amberlyn Packaging Systems - Client payment received,35010.0,193983.0,Y
+02/11/2026,Corsair Tooling Co - Client payment received,39993.0,233976.0,Y
+02/12/2025,Mark Allen - Contractor payment,-20475.0,213501.0,Y
+02/13/2025,Fatima Allen - Contractor payment,-3410.0,210091.0,Y
+02/18/2025,Greenfield Machine Works - Client payment received,18592.0,228683.0,Y
+02/18/2026,Greenfield Machine Works - Client payment received,17853.0,246536.0,Y
+02/20/2025,Sandra Adams - Contractor payment,-9310.0,237226.0,Y
+02/22/2025,Greenfield Machine Works - Client payment received,9855.0,247081.0,Y
+02/25/2025,Bellwright Manufacturing - Client payment received,11622.0,258703.0,Y
+02/27/2025,Greenfield Machine Works - Client payment received,37262.0,295965.0,Y
+02/27/2025,Sandra Baker - Contractor payment,-14532.0,281433.0,Y
+03/03/2025,Patricia Young - Contractor payment,-8064.0,273369.0,Y
+03/03/2025,Amberlyn Packaging Systems - Client payment received,8595.0,281964.0,Y
+03/04/2025,Sandra Adams - Contractor payment,-19152.0,262812.0,Y
+03/05/2025,Truline Automotive Parts - Client payment received,18259.0,281071.0,Y
+03/07/2025,Truline Automotive Parts - Client payment received,21018.0,302089.0,Y
+03/09/2025,Ashford Precision Metals - Client payment received,7740.0,309829.0,Y
+03/10/2025,Corsair Tooling Co - Client payment received,21384.0,331213.0,Y
+03/11/2025,Palmetto Industrial Group - Client payment received,10140.0,341353.0,Y
+03/14/2025,Dunmore Industrial - Client payment received,30628.0,371981.0,Y
+03/15/2025,Keystone Fabrication - Client payment received,15690.0,387671.0,Y
+03/17/2025,Halston Industrial Supply - Client payment received,15315.0,402986.0,Y
+03/20/2025,Fatima Allen - Contractor payment,-14190.0,388796.0,Y
+03/23/2025,Palmetto Industrial Group - Client payment received,5900.0,394696.0,Y
+03/24/2025,Linda Jones - Contractor payment,-15300.0,379396.0,Y
+03/26/2025,Linda Flores - Contractor payment,-9072.0,370324.0,Y
+03/27/2025,Halston Industrial Supply - Client payment received,17640.0,387964.0,Y
+03/28/2025,Keystone Fabrication - Client payment received,19008.0,406972.0,Y
+03/28/2025,Bellwright Manufacturing - Client payment received,37536.0,444508.0,Y
+04/02/2025,James Taylor - Contractor payment,-6773.0,437735.0,Y
+04/06/2025,Sandra Adams - Contractor payment,-11858.0,425877.0,Y
+04/06/2025,Linda Flores - Contractor payment,-11856.0,414021.0,Y
+04/07/2025,Dunmore Industrial - Client payment received,11660.0,444427.0,Y
+04/07/2025,Sandra Baker - Contractor payment,-17496.0,426931.0,Y
+04/07/2025,Truline Automotive Parts - Client payment received,18746.0,432767.0,Y
+04/09/2025,Truline Automotive Parts - Client payment received,11640.0,438571.0,Y
+04/09/2025,Keystone Fabrication - Client payment received,31455.0,470026.0,Y
+04/11/2025,Patricia Young - Contractor payment,-14580.0,455446.0,Y
+04/13/2025,Fatima Allen - Contractor payment,-13100.0,442346.0,Y
+04/17/2025,Greenfield Machine Works - Client payment received,26944.0,469290.0,Y
+04/22/2025,Mark Allen - Contractor payment,-12315.0,456975.0,Y
+04/23/2025,Amberlyn Packaging Systems - Client payment received,27506.0,484481.0,Y
+04/24/2025,Truline Automotive Parts - Client payment received,9671.0,494152.0,Y
+04/24/2025,Corsair Tooling Co - Client payment received,23452.0,517604.0,Y
+04/25/2025,Truline Automotive Parts - Client payment received,28666.0,546270.0,Y
+04/30/2025,Truline Automotive Parts - Client payment received,26826.0,573096.0,Y
+05/02/2025,Dunmore Industrial - Client payment received,23760.0,626286.0,Y
+05/02/2025,Halston Industrial Supply - Client payment received,29430.0,602526.0,Y
+05/06/2025,Halston Industrial Supply - Client payment received,16957.0,643243.0,Y
+05/08/2025,Ashford Precision Metals - Client payment received,15904.0,659147.0,Y
+05/10/2025,Patricia Young - Contractor payment,-10452.0,648695.0,Y
+05/11/2025,Palmetto Industrial Group - Client payment received,11070.0,659765.0,Y
+05/11/2025,Fatima Allen - Contractor payment,-10950.0,648815.0,Y
+05/14/2025,Dunmore Industrial - Client payment received,5575.0,654390.0,Y
+05/17/2025,James Taylor - Contractor payment,-11011.0,643379.0,Y
+05/18/2025,Corsair Tooling Co - Client payment received,10365.0,653744.0,Y
+05/19/2025,Palmetto Industrial Group - Client payment received,28968.0,682712.0,Y
+05/19/2025,Mark Allen - Contractor payment,-17715.0,664997.0,Y
+05/22/2025,Sandra Baker - Contractor payment,-12732.0,652265.0,Y
+06/03/2025,Dunmore Industrial - Client payment received,14400.0,666665.0,Y
+06/09/2025,James Taylor - Contractor payment,-17797.0,678969.0,Y
+06/09/2025,Keystone Fabrication - Client payment received,30101.0,696766.0,Y
+06/11/2025,Amberlyn Packaging Systems - Client payment received,15585.0,694554.0,Y
+06/11/2025,Fatima Allen - Contractor payment,-10710.0,683844.0,Y
+06/14/2025,Linda Jones - Contractor payment,-8075.0,675769.0,Y
+06/15/2025,Sandra Baker - Contractor payment,-4296.0,671473.0,Y
+06/16/2025,Truline Automotive Parts - Client payment received,23788.0,695261.0,Y
+06/18/2025,Ashford Precision Metals - Client payment received,33432.0,728693.0,Y
+06/18/2025,Dunmore Industrial - Client payment received,25828.0,754521.0,Y
+06/18/2025,Bellwright Manufacturing - Client payment received,42372.0,796893.0,Y
+06/20/2025,Truline Automotive Parts - Client payment received,26078.0,822971.0,Y
+06/22/2025,Mark Allen - Contractor payment,-17865.0,786418.0,Y
+06/22/2025,Linda Flores - Contractor payment,-18688.0,804283.0,Y
+06/27/2025,Truline Automotive Parts - Client payment received,33488.0,819906.0,Y
+06/30/2025,Sandra Adams - Contractor payment,-5922.0,813984.0,Y
+07/01/2025,Halston Industrial Supply - Client payment received,30030.0,844014.0,Y
+07/03/2025,Greenfield Machine Works - Client payment received,37824.0,881838.0,Y
+07/04/2025,Linda Flores - Contractor payment,-13088.0,868750.0,Y
+07/09/2025,Ashford Precision Metals - Client payment received,43090.0,911840.0,Y
+07/09/2025,Fatima Allen - Contractor payment,-12040.0,899800.0,Y
+07/10/2025,Halston Industrial Supply - Client payment received,29198.0,928998.0,Y
+07/10/2025,Palmetto Industrial Group - Client payment received,23680.0,952678.0,Y
+07/11/2025,Bellwright Manufacturing - Client payment received,34980.0,987658.0,Y
+07/11/2025,Ashford Precision Metals - Client payment received,35856.0,1023514.0,Y
+07/14/2025,Dunmore Industrial - Client payment received,25056.0,1048570.0,Y
+07/17/2025,Dunmore Industrial - Client payment received,6996.0,1055566.0,Y
+07/18/2025,Dunmore Industrial - Client payment received,22372.0,1065173.0,Y
+07/18/2025,Mark Allen - Contractor payment,-12765.0,1042801.0,Y
+07/19/2025,Sandra Baker - Contractor payment,-16356.0,1043261.0,Y
+07/19/2025,Patricia Young - Contractor payment,-5556.0,1059617.0,Y
+07/23/2025,Linda Jones - Contractor payment,-26146.0,1017115.0,Y
+07/24/2025,Halston Industrial Supply - Client payment received,23240.0,1040355.0,Y
+07/30/2025,Keystone Fabrication - Client payment received,16560.0,1056915.0,Y
+08/03/2025,Sandra Baker - Contractor payment,-6036.0,1050879.0,Y
+08/03/2025,Sandra Adams - Contractor payment,-18046.0,1032833.0,Y
+08/04/2025,Dunmore Industrial - Client payment received,32700.0,1065533.0,Y
+08/05/2025,Truline Automotive Parts - Client payment received,20200.0,1085733.0,Y
+08/05/2025,Bellwright Manufacturing - Client payment received,25610.0,1111343.0,Y
+08/06/2025,Keystone Fabrication - Client payment received,4125.0,1115468.0,Y
+08/07/2025,Halston Industrial Supply - Client payment received,19127.0,1134595.0,Y
+08/10/2025,Keystone Fabrication - Client payment received,15008.0,1134099.0,Y
+08/10/2025,Corsair Tooling Co - Client payment received,47854.0,1181953.0,Y
+08/10/2025,Patricia Young - Contractor payment,-15504.0,1119091.0,Y
+08/11/2025,Linda Jones - Contractor payment,-6579.0,1175374.0,Y
+08/15/2025,Halston Industrial Supply - Client payment received,15572.0,1190946.0,Y
+08/15/2025,Greenfield Machine Works - Client payment received,26818.0,1217764.0,Y
+08/16/2025,Keystone Fabrication - Client payment received,37290.0,1255054.0,Y
+08/16/2025,James Taylor - Contractor payment,-18590.0,1236464.0,Y
+08/17/2025,Fatima Allen - Contractor payment,-14080.0,1222384.0,Y
+08/18/2025,Linda Flores - Contractor payment,-12032.0,1210352.0,Y
+08/19/2025,Mark Allen - Contractor payment,-19845.0,1190507.0,Y
+08/20/2025,Palmetto Industrial Group - Client payment received,10890.0,1201397.0,Y
+08/22/2025,Corsair Tooling Co - Client payment received,18648.0,1220045.0,Y
+08/25/2025,Amberlyn Packaging Systems - Client payment received,25389.0,1245434.0,Y
+08/30/2025,Truline Automotive Parts - Client payment received,29350.0,1274784.0,Y
+08/31/2025,Dunmore Industrial - Client payment received,16224.0,1291008.0,Y
+09/03/2025,Ashford Precision Metals - Client payment received,7371.0,1298379.0,Y
+09/07/2025,Sandra Adams - Contractor payment,-10500.0,1287879.0,Y
+09/09/2025,Fatima Allen - Contractor payment,-3940.0,1283939.0,Y
+09/09/2025,Palmetto Industrial Group - Client payment received,20760.0,1304699.0,Y
+09/10/2025,James Taylor - Contractor payment,-14339.0,1290360.0,Y
+09/14/2025,Palmetto Industrial Group - Client payment received,20730.0,1311090.0,Y
+09/14/2025,Greenfield Machine Works - Client payment received,18120.0,1329210.0,Y
+09/15/2025,Linda Flores - Contractor payment,-5504.0,1323706.0,Y
+09/16/2025,Sandra Baker - Contractor payment,-14244.0,1309462.0,Y
+09/17/2025,Linda Jones - Contractor payment,-22457.0,1287005.0,Y
+09/18/2025,Bellwright Manufacturing - Client payment received,26852.0,1313857.0,Y
+09/21/2025,Halston Industrial Supply - Client payment received,22022.0,1335879.0,Y
+09/23/2025,Corsair Tooling Co - Client payment received,18780.0,1354659.0,Y
+09/24/2025,Ashford Precision Metals - Client payment received,10635.0,1365294.0,Y
+09/29/2025,Dunmore Industrial - Client payment received,12988.0,1378282.0,Y
+09/29/2025,Dunmore Industrial - Client payment received,13176.0,1391458.0,Y
+10/04/2025,Sandra Baker - Contractor payment,-13284.0,1378174.0,Y
+10/06/2025,James Taylor - Contractor payment,-17888.0,1360286.0,Y
+10/10/2025,Amberlyn Packaging Systems - Client payment received,5425.0,1365711.0,Y
+10/11/2025,Halston Industrial Supply - Client payment received,32896.0,1398607.0,Y
+10/15/2025,Keystone Fabrication - Client payment received,24130.0,1422737.0,Y
+10/15/2025,Keystone Fabrication - Client payment received,18915.0,1441652.0,Y
+10/18/2025,Keystone Fabrication - Client payment received,10314.0,1451966.0,Y
+10/19/2025,Dunmore Industrial - Client payment received,21522.0,1473488.0,Y
+10/20/2025,Linda Flores - Contractor payment,-22752.0,1450736.0,Y
+10/22/2025,Greenfield Machine Works - Client payment received,6291.0,1457027.0,Y
+10/23/2025,Dunmore Industrial - Client payment received,20514.0,1477541.0,Y
+10/25/2025,Sandra Adams - Contractor payment,-8736.0,1468805.0,Y
+10/27/2025,Patricia Young - Contractor payment,-12120.0,1456685.0,Y
+10/29/2025,Truline Automotive Parts - Client payment received,9372.0,1466057.0,Y
+10/31/2025,Keystone Fabrication - Client payment received,8349.0,1474406.0,Y
+11/04/2025,James Taylor - Contractor payment,-7124.0,1467282.0,Y
+11/07/2025,Truline Automotive Parts - Client payment received,31712.0,1498994.0,Y
+11/08/2025,Truline Automotive Parts - Client payment received,32850.0,1531844.0,Y
+11/08/2025,Bellwright Manufacturing - Client payment received,7625.0,1539469.0,Y
+11/08/2025,Palmetto Industrial Group - Client payment received,12810.0,1552279.0,Y
+11/09/2025,Halston Industrial Supply - Client payment received,22272.0,1574551.0,Y
+11/17/2025,Greenfield Machine Works - Client payment received,10686.0,1585237.0,Y
+11/19/2025,Halston Industrial Supply - Client payment received,8208.0,1593445.0,Y
+11/21/2025,Patricia Young - Contractor payment,-18516.0,1574929.0,Y
+11/22/2025,Keystone Fabrication - Client payment received,20808.0,1595737.0,Y
+11/24/2025,Sandra Adams - Contractor payment,-9982.0,1585755.0,Y
+11/25/2025,Sandra Baker - Contractor payment,-6096.0,1579659.0,Y
+11/25/2025,Ashford Precision Metals - Client payment received,10440.0,1590099.0,Y
+11/26/2025,Dunmore Industrial - Client payment received,11928.0,1602027.0,Y
+11/27/2025,Truline Automotive Parts - Client payment received,14421.0,1616448.0,Y
+11/27/2025,Linda Flores - Contractor payment,-20144.0,1596304.0,Y
+11/27/2025,Linda Jones - Contractor payment,-12597.0,1583707.0,Y
+11/29/2025,Fatima Allen - Contractor payment,-13200.0,1570507.0,Y
+12/05/2025,Linda Jones - Contractor payment,-10302.0,1560205.0,Y
+12/05/2025,Corsair Tooling Co - Client payment received,25327.0,1585532.0,Y
+12/08/2025,James Taylor - Contractor payment,-10868.0,1574664.0,Y
+12/09/2025,Dunmore Industrial - Client payment received,23582.0,1598246.0,Y
+12/10/2025,Truline Automotive Parts - Client payment received,17640.0,1615886.0,Y
+12/11/2025,Palmetto Industrial Group - Client payment received,11730.0,1627616.0,Y
+12/13/2025,Ashford Precision Metals - Client payment received,27740.0,1655356.0,Y
+12/13/2025,Palmetto Industrial Group - Client payment received,16896.0,1672252.0,Y
+12/15/2025,Ashford Precision Metals - Client payment received,17295.0,1689547.0,Y
+12/16/2025,Palmetto Industrial Group - Client payment received,9680.0,1699227.0,Y
+12/17/2025,Bellwright Manufacturing - Client payment received,16606.0,1715833.0,Y
+12/21/2025,Dunmore Industrial - Client payment received,27586.0,1743419.0,Y
+12/22/2025,Amberlyn Packaging Systems - Client payment received,7968.0,1751387.0,Y
+12/23/2025,Keystone Fabrication - Client payment received,19368.0,1770755.0,Y
+12/30/2025,Sandra Adams - Contractor payment,-19502.0,1751253.0,Y
+12/31/2025,Linda Flores - Contractor payment,-17696.0,1733557.0,Y
+2025-01-25,Payroll - Payroll clearing,-246096.65,1487460.35,Y
+2025-02-16,Payroll - Payroll clearing,-246096.65,1241363.7,Y
+2025-03-15,Payroll - Payroll clearing,-246096.65,995267.05,Y
+2025-04-23,Payroll - Payroll clearing,-246096.65,749170.4,Y
+2025-05-19,Payroll - Payroll clearing,-246096.65,503073.75,Y
+2025-06-12,Payroll - Payroll clearing,-246096.65,256977.1,Y
+2025-07-16,Payroll - Payroll clearing,-246096.65,10880.45,Y
+2025-07-19,BANK FEE / UNKNOWN DEBIT,-355.38,-1220911.17,N - not recorded in GL
+2025-08-12,BANK FEE / UNKNOWN DEBIT,-44.89,-1219647.69,N - not recorded in GL
+2025-08-23,Payroll - Payroll clearing,-246096.65,-235216.2,Y
+2025-09-22,Payroll - Payroll clearing,-246096.65,-481312.85,Y
+2025-10-01,Payroll - Payroll clearing,-246096.65,-727409.5,Y
+2025-10-13,BANK FEE / UNKNOWN DEBIT,-835.92,-1220483.61,N - not recorded in GL
+2025-11-13,BANK FEE / UNKNOWN DEBIT,-72.18,-1220555.79,N - not recorded in GL
+2025-11-15,Payroll - Payroll clearing,-246096.65,-973506.15,Y
+2025-12-02,Payroll - Payroll clearing,-246096.65,-1219602.8,Y
