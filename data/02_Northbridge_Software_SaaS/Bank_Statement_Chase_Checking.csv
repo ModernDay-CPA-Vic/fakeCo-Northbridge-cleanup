@@ -1,0 +1,31 @@
+post_date,description,amount,running_balance,cleared
+2025-01-17,Stripe - Stripe payout swept to bank,172505.01,357505.01,Y
+2025-01-28,ADP Payroll - Payroll clearing to bank,-446592.14,-89087.13,Y
+2025-02-09,Stripe - Stripe payout swept to bank,263914.94,174827.81,Y
+2025-02-28,ADP Payroll - Payroll clearing to bank,-473428.9,-298601.09,Y
+2025-03-19,Stripe - Stripe payout swept to bank,342624.99,44023.9,Y
+2025-03-28,ADP Payroll - Payroll clearing to bank,-508445.88,-464421.98,Y
+2025-04-26,Stripe - Stripe payout swept to bank,386011.38,-78410.6,Y
+2025-04-28,ADP Payroll - Payroll clearing to bank,-508445.88,-586856.48,Y
+2025-05-28,ADP Payroll - Payroll clearing to bank,-515964.02,-1102820.5,Y
+2025-05-30,Stripe - Stripe payout swept to bank,383644.59,-719175.91,Y
+2025-06-13,Stripe - Stripe payout swept to bank,425637.38,-293538.53,Y
+2025-06-28,ADP Payroll - Payroll clearing to bank,-523823.88,-817362.41,Y
+2025-07-26,Stripe - Stripe payout swept to bank,421775.1,-395587.31,Y
+2025-07-28,ADP Payroll - Payroll clearing to bank,-538258.1,-933845.41,Y
+2025-08-05,Stripe - Stripe payout swept to bank,440895.01,-492950.4,Y
+2025-08-28,ADP Payroll - Payroll clearing to bank,-536986.8,-1029937.2,Y
+2025-08-30,POS DEBIT - UNKNOWN MERCHANT,-1969.97,-1406993.97,N - not recorded in GL
+2025-09-22,POS DEBIT - UNKNOWN MERCHANT,-811.35,-1410397.56,N - not recorded in GL
+2025-09-23,Stripe - Stripe payout swept to bank,441978.67,-587958.53,Y
+2025-09-28,ADP Payroll - Payroll clearing to bank,-546047.22,-1134005.75,Y
+2025-10-23,Stripe - Stripe payout swept to bank,453762.48,-680243.27,Y
+2025-10-28,ADP Payroll - Payroll clearing to bank,-546047.22,-1226290.49,Y
+2025-11-13,POS DEBIT - UNKNOWN MERCHANT,-2592.24,-1409586.21,N - not recorded in GL
+2025-11-15,Stripe - Stripe payout swept to bank,458049.45,-768241.04,Y
+2025-11-17,POS DEBIT - UNKNOWN MERCHANT,-1613.46,-1401938.57,N - not recorded in GL
+2025-11-28,ADP Payroll - Payroll clearing to bank,-546047.22,-1314288.26,Y
+2025-12-17,Stripe - Stripe payout swept to bank,460010.37,-854277.89,Y
+2025-12-17,POS DEBIT - UNKNOWN MERCHANT,-3085.43,-1405024.0,N - not recorded in GL
+2025-12-24,POS DEBIT - UNKNOWN MERCHANT,-1211.38,-1411608.94,N - not recorded in GL
+2025-12-28,ADP Payroll - Payroll clearing to bank,-546047.22,-1400325.11,Y
